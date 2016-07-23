@@ -2,7 +2,7 @@
 title: 进程调度算法
 date: 2016-06-11 12:20:00
 categories: Linux
-tags: Linux
+tags: Linux系统篇
 ---
 一、先来先服务和短作业(进程)优先调度算法
 1．先来先服务调度算法

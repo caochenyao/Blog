@@ -2,7 +2,7 @@
 title: Linux find命令和atime/ctime/mtime
 date: 2016-05-19 15:40:28
 categories: Linux
-tags: Linux
+tags: Linux系统篇
 ---
 一、Linux中的find命令
   1.find命令的一般形式为：

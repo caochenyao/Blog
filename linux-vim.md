@@ -2,7 +2,7 @@
 title: vim编辑器的配置
 date: 2016-05-31 11:41:01
 categories: Linux
-tags: Linux
+tags: Linux系统篇
 ---
 一、前言
   vim是一款功能强大的文本编辑器，它在vi的基础上增加了很多的特性以及做了很多改进，而学习Linux不免要和vim打交道，本篇博客主要说的是关于vim的配置问题。

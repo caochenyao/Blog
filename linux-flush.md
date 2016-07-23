@@ -2,7 +2,7 @@
 title: Linux缓冲机制——进度条的简单实现
 date: 2016-06-06 08:35:25
 categories: Linux
-tags: Linux
+tags: Linux系统篇
 ---
 一、关于printf中'\n'刷新缓冲区的问题
    首先看这样的一段代码：
